@@ -1,24 +1,5 @@
-n = 10
-
-while (n > 10):
-    n += 2
-    print(n)
-
-a = 10
-
-while (a < 10):
-    a += 6
-    print(a)
-
-j = 0
-
-while (j > 10):
-    j += 6
-    print(j)
-
-
-z = 10
-
-while (z < 50):
-    z += 5
-    print(z)
+for i in range(6,1):
+    for j in range(6,1):
+        
+        
+     
