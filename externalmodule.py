@@ -7,10 +7,10 @@ from gtts import gTTS
 import os
 
 # The text that you want to convert to audio
-mytext = "நானே ஆதிநாராயணன். நான் கடலில் மலைப்பாம்பு வகுப்பு படிக்கிறேன். நான் இசையை கேட்க விரும்புகிறேன் நண்பர்களே"
+mytext = "Hi from ocean academy"
 
 # Language in which you want to convert
-language = "ta"
+language = "en"
 
 # Passing the text and language to the engine,
 # here we have marked slow=False. Which tells
