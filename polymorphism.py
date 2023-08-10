@@ -87,10 +87,12 @@ class Square(Shape):
     def __init__(self, length):
         super().__init__("Square")
         self.length = length
-
+        
+    #method overiding
     def area(self):
         return self.length**2
 
+    #method overiding
     def fact(self):
         return "Squares have each angle equal to 90 degrees."
 
